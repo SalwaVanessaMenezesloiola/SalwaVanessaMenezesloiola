@@ -1,5 +1,5 @@
 
-<div style="background-image: url('https://github.com/SalwaVanessaMenezesloiola/REPOSITORY_NAME/raw/main/path/to/Screen%20Shot%202025-01-07%20at%2010.45.49.png'); background-size: cover; height: 500px; width: 100%;">
+<div style="background-image: url('https://github.com/SalwaVanessaMenezesloiola/SeuRepositório/raw/main/caminho/para/imagem/Screen%20Shot%202025-01-07%20at%2010.45.49.png'); background-size: cover; height: 500px; width: 100%;">
 
 # Silenced Voices
 
