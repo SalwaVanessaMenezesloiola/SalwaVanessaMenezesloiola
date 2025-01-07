@@ -1,4 +1,3 @@
-
 # Silenced Voices
 
 ## 👋 Hi, I’m @SalwaVanessaMenezesloiola
@@ -6,7 +5,7 @@
 ### About the Project  
 **Silenced Voices** was the starting point for developing a solution aimed at amplifying marginalized voices on social media platforms, particularly Instagram. The core idea was to create a network of active users who could share and promote content from silenced accounts using a cascading system to increase the visibility of these posts.
 
-Through the lessons learned during the development of **Silenced Voices**, I identified opportunities to improve scalability, efficiency, and user experience. This led to the creation of **NeonShadowFeed**, a project that maintains the same core objective but with a more robust architecture, enhanced functionalities, and a more refined technical approach.
+Through the lessons learned during the development of **Silenced Voices**, I identified opportunities to improve scalability, efficiency, and user experience. This led to the creation of **[NeonShadowFeed](https://github.com/SalwaVanessaMenezesloiola/NeonShadowFeed)**, a project that maintains the same core objective but with a more robust architecture, enhanced functionalities, and a more refined technical approach.
 
 Currently, **NeonShadowFeed** is under active development, incorporating the lessons learned from **Silenced Voices** and expanding the scope to address new technical and social challenges. The focus remains on creating a platform that promotes digital equity and inclusion, ensuring that marginalized voices have the opportunity to be heard.
 
@@ -34,7 +33,7 @@ Currently, **NeonShadowFeed** is under active development, incorporating the les
 ---
 
 ### Next Steps  
-**NeonShadowFeed** is under active development, with a focus on delivering a solution that overcomes the limitations of **Silenced Voices** and offers a more complete and efficient experience. To track the project's progress, visit the [NeonShadowFeed repository](link-to-neonshadowfeed).  
+**NeonShadowFeed** is under active development, with a focus on delivering a solution that overcomes the limitations of **Silenced Voices** and offers a more complete and efficient experience. To track the project's progress, visit the [NeonShadowFeed repository](https://github.com/SalwaVanessaMenezesloiola/NeonShadowFeed).  
 
 ---
 
@@ -52,11 +51,6 @@ I am always open to collaborating with other developers, designers, and tech ent
 
 ### Pronouns  
 She/Her  
-
----
-
----
-
 
 <div dir="rtl">
 
