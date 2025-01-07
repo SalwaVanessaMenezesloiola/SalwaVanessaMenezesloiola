@@ -1,6 +1,5 @@
 
-
-![NeonShadowFeed Background](assets/background.png)
+<div style="background-image: url('https://github.com/SalwaVanessaMenezesloiola/REPOSITORY_NAME/raw/main/path/to/Screen%20Shot%202025-01-07%20at%2010.45.49.png'); background-size: cover; height: 500px; width: 100%;">
 
 # Silenced Voices
 
@@ -13,6 +12,7 @@ Through the lessons learned during the development of **Silenced Voices**, I ide
 
 Currently, **NeonShadowFeed** is under active development, incorporating the lessons learned from **Silenced Voices** and expanding the scope to address new technical and social challenges. The focus remains on creating a platform that promotes digital equity and inclusion, ensuring that marginalized voices have the opportunity to be heard.
 
+<div dir="rtl">
 ---
 
 ### Lessons Learned from Silenced Voices  
