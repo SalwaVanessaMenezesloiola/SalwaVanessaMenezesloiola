@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github.com/SalwaVanessaMenezesloiola/SeuRepositório/raw/main/caminho/para/imagem/Screen%20Shot%202025-01-07%20at%2010.45.49.png" alt="Imagem de Fundo" style="width: 100%; height: auto; border-radius: 10px;">
+  <img src="https://raw.githubusercontent.com/SalwaVanessaMenezesloiola/Silenced-Voices/main/Screen%20Shot%202025-01-07%20at%2010.45.49.png" alt="Imagem de Fundo" style="width: 100%; height: auto; border-radius: 10px;">
 </div>
 # Silenced Voices
 
