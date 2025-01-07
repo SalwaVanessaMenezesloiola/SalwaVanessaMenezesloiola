@@ -57,12 +57,6 @@ She/Her
 
 ---
 
-# Silenced Voices
-
-## 👋 Hi, I’m @SalwaVanessaMenezesloiola
-
-### About the Project  
-**Silenced Voices** was the starting point for developing a solution aimed at amplifying marginalized voices on social media platforms, particularly Instagram. The project has evolved into **[NeonShadowFeed](https://github.com/SalwaVanessaMenezesloiola/NeonShadowFeed)**, which is currently under active development.
 
 <div dir="rtl">
 
