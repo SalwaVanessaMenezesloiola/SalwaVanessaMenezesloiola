@@ -1,6 +1,7 @@
 
-<div style="background-image: url('https://github.com/SalwaVanessaMenezesloiola/SeuRepositório/raw/main/caminho/para/imagem/Screen%20Shot%202025-01-07%20at%2010.45.49.png'); background-size: cover; height: 500px; width: 100%;">
-
+<div align="center">
+  <img src="https://github.com/SalwaVanessaMenezesloiola/SeuRepositório/raw/main/caminho/para/imagem/Screen%20Shot%202025-01-07%20at%2010.45.49.png" alt="Imagem de Fundo" style="width: 100%; height: auto; border-radius: 10px;">
+</div>
 # Silenced Voices
 
 ## 👋 Hi, I’m @SalwaVanessaMenezesloiola
