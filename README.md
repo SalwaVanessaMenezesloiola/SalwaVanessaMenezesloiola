@@ -54,6 +54,10 @@ I am always open to collaborating with other developers, designers, and tech ent
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SalwaVanessaMenezesloiola/Silenced-Voices/main/Screen%20Shot%202025-01-07%20at%2010.45.49.png" alt="Imagem de Fundo" style="width: 100%; height: auto; border-radius: 10px;">
+</div>
+
 ### Pronouns  
 She/Her  
 
