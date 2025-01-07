@@ -50,7 +50,7 @@ I am always open to collaborating with other developers, designers, and tech ent
 ### How to Reach Me  
 
 - **LinkedIn:** [Vanessa Loiola](https://www.linkedin.com/in/vanessa-loiola-23a48b174/)  
-- **GitHub:** [@Salwasalamsalwa(https://github.com/SalwaVanessaMenezesloiola)  
+- **GitHub:** [@Salwasalamsalwa(https://github.com/salwasalamsalwa)  
 
 ---
 
