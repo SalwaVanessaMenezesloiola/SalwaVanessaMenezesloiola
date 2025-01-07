@@ -1,8 +1,3 @@
-Aqui está a versão atualizada com o link correto do seu LinkedIn, tanto em **inglês** quanto em **árabe**:
-
----
-
-### **English Version**
 
 # Silenced Voices
 
