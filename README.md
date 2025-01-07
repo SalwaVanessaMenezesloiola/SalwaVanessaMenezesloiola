@@ -4,7 +4,7 @@
 </div>
 # Silenced Voices
 
-## 👋 Hi, I’m @SalwaVanessaMenezesloiola
+## 👋 Hi, I’m @salwasalamsalwa
 
 ### About the Project  
 **Silenced Voices** was the starting point for developing a solution aimed at amplifying marginalized voices on social media platforms, particularly Instagram. The core idea was to create a network of active users who could share and promote content from silenced accounts using a cascading system to increase the visibility of these posts.
