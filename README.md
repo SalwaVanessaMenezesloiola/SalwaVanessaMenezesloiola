@@ -1,3 +1,7 @@
+
+
+![NeonShadowFeed Background](assets/background.png)
+
 # Silenced Voices
 
 ## 👋 Hi, I’m @SalwaVanessaMenezesloiola
